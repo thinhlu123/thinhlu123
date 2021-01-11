@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying software engineering at VNUHCM-University Of Science.
 - 💼 &nbsp; Back-end developer.
 - 🌱 &nbsp; Enthusiast in web developement .
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the perfect solution for any stress. 
+- ☕ &nbsp; Energy = Milk x Coffee<sup>2</sup>. 
 
 <h3>🛠 Tech Stack</h3>
 
