@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying software engineering at VNUHCM-University Of Science.
-- 💼 &nbsp; Back-end developer.
+- 💼 &nbsp; Software Engineer.
 - 🌱 &nbsp; Enthusiast in web developement .
 - ☕ &nbsp; Energy = Milk x Coffee<sup>2</sup>. 
 
@@ -18,7 +18,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/vu-thinh-a67b6215b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/thinhlu123/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://www.facebook.com/thinhlu123" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
 &nbsp; <a href="mailto:thinhlu123@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
